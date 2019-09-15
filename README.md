@@ -23,9 +23,9 @@ policies| accountno, policyid|Stores what policies are active for an account
 
 ## Working:
 
-On the startup of the application, the user is greeted with the bank policies and the **login/register** screen
-On successfully logging in, he/she will be greeted with another screen with the various options, all of which are parts of the above schema. Successfully navigating between all parts of the application has been implemented.
-MyDrawPanel.java and Details.java are primarily helper classes.
+On the startup of the application, the user is greeted with the bank policies and the **login/register** screen  
+On successfully logging in, he/she will be greeted with another screen with the various options, all of which are parts of the above schema. Successfully navigating between all parts of the application has been implemented.  
+MyDrawPanel.java and Details.java are primarily helper classes for BankingSystem.java, which is the main class of the project.
 
 More documentation coming soon!
 
