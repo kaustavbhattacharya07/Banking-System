@@ -18,7 +18,7 @@
 |-------|---------|-----|
 userinfo|username, password, email, contact, name | Stores details of users
 balance|balance, accountno|Stores the balance of each account
-loans|accountno, loanamount|Spacifically stores loans
+loans|accountno, loanamount|Specifically stores loans
 policies| accountno, policyid|Stores what policies are active for an account
 
 ## Working:
